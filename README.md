@@ -1,5 +1,11 @@
 ## Hi there 👋
+I'm **Haripriya**, a Computer Science Engineering student interested in web development and emerging technologies.
 
+I enjoy building projects, learning new technologies, and improving my problem-solving skills.
+Currently exploring, learning, and building as I grow as a developer.
+
+### Tools & Tech
+Java • JavaScript • HTML • CSS • React • Node.js • Express • MongoDB • Git • GitHub • VS Code
 <!--
 **Haripriya2311/haripriya2311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
